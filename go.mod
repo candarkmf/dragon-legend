@@ -1,4 +1,4 @@
-module github.com/syntaxgame/dragon-legend
+module github.com/candarkmf/dragon-legend
 
 go 1.13
 
